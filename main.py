@@ -6,6 +6,10 @@ milk = data.resources["milk"]
 total_coffee = data.resources["coffee"]
 money = 0
 
+
+
+
+
 def report():
     print(f"Water: {water}")
     print(f"Milk: {milk}")
